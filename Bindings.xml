@@ -1,0 +1,8 @@
+<Bindings>
+    <Binding name="ChatTabCycler: Go To Next">
+        ChatTabCycler_NextTab()
+    </Binding>
+    <Binding name="ChatTabCycler: Go To Prev">
+        ChatTabCycler_PrevTab()
+    </Binding>
+</Bindings>
